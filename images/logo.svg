@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 180" fill="currentColor">
+  <!-- Ram horns -->
+  <path d="M100 95
+           C100 95 85 95 70 80
+           C50 60 45 35 50 20
+           C55 5 70 0 80 5
+           C90 10 95 25 90 40
+           C85 55 75 65 75 65
+           C75 65 80 55 82 45
+           C84 35 80 25 75 22
+           C70 19 62 22 58 32
+           C54 42 58 60 75 78
+           C85 88 100 92 100 92" 
+        fill="currentColor"/>
+  <path d="M100 95
+           C100 95 115 95 130 80
+           C150 60 155 35 150 20
+           C145 5 130 0 120 5
+           C110 10 105 25 110 40
+           C115 55 125 65 125 65
+           C125 65 120 55 118 45
+           C116 35 120 25 125 22
+           C130 19 138 22 142 32
+           C146 42 142 60 125 78
+           C115 88 100 92 100 92"
+        fill="currentColor"/>
+  
+  <!-- Rose/diamond shape at top -->
+  <path d="M100 8
+           L115 28
+           L100 48
+           L85 28
+           Z"
+        fill="currentColor"/>
+  
+  <!-- Inner rose detail -->
+  <path d="M100 18
+           L108 28
+           L100 38
+           L92 28
+           Z"
+        fill="none"
+        stroke="currentColor"
+        stroke-width="2"/>
+  
+  <!-- Small circle/dot in rose -->
+  <circle cx="100" cy="28" r="3" fill="currentColor"/>
+  
+  <!-- Text: RAM & ROSE -->
+  <text x="100" y="140" 
+        text-anchor="middle" 
+        font-family="'Cormorant Garamond', Georgia, serif"
+        font-size="24"
+        font-weight="400"
+        letter-spacing="4"
+        fill="currentColor">RAM &amp; ROSE</text>
+</svg>
